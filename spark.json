@@ -2,7 +2,7 @@
   "name": "software_serial",
   "author": "Arduino",
   "license": "MIT",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Software Serial Library"
 }
 
